@@ -2,7 +2,7 @@
 
 ## Features
 
-- Onboarding of Administrators as super admin to create members via excel sheet
+- Onboarding of Administrators as super admin to create members via an excel sheet
 
 
 ## Getting Started
